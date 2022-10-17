@@ -6,7 +6,7 @@ The midterm of this course required us to implement everything we had learned, r
 
 ## ***method***
 
-test test test
+Initially, having an object, a worm, move through the screen in a manner that is up, down, right, and left was an essential aspect of the game. Then, it was necessary to include a collectible germ that would also serve as a point system. These goals were managed by classifying both the 'worm' and 'germ' and implementing them into arrays and indexes to stylize further the motion presenting an illusion of a worm-like movement. Then, adding a difficulty aspect where the user can freely adjust the difficulty level was an enjoyable feature, as it required sliders, a concept never delved into before. Finally, adding menu and end screens containing instructions would be the icing on the cake. To do that, I fully customized an entire image in Photoshop that compliments the pixelated theme present in the game. These images possessed easy-to-follow instructions such as an icon of arrows with "move," a space bar with "restart, and a click with "start" phrases next to them.
 
 <br>
 
