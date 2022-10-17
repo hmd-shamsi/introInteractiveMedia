@@ -13,13 +13,18 @@ test test test
 ## ***sketch***
 
 <img width="395" alt="Screen Shot 2022-10-17 at 2 22 11 PM" src="https://user-images.githubusercontent.com/72342923/196156267-eced4979-a840-45b9-a60c-03fb9612cf3d.png">
-_menu_
+
+menu
+
 
 <img width="398" alt="Screen Shot 2022-10-17 at 2 24 08 PM" src="https://user-images.githubusercontent.com/72342923/196156503-8c72ff7b-af37-46a6-bf4d-a049127b870b.png">
-**_gameplay_**
+
+gameplay
+
 
 <img width="399" alt="Screen Shot 2022-10-17 at 2 25 56 PM" src="https://user-images.githubusercontent.com/72342923/196156553-51ae9f8c-0638-4d42-aca8-b1aa4fa65765.png">
-_end_
+
+endscreen
 
 <br>
 
