@@ -32,4 +32,4 @@ endscreen
 
 ## ***future improvement***
 
-test
+Presenting a worm-customization aspect allowing the user to customize the shape of the worm would be a fun and interactive feature. Additionally, adding a high-score element to possibly implement a competitive aspect to the game would be extremely fun.
